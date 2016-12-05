@@ -1,6 +1,6 @@
 ![GA Logo](./_assets/ga_made_in_singapore.png)
 # WDI Singapore
-
+bla
 Welcome to General Assembly's Web Development Immersive - Singapore Edition!
 [This Gitbook](https://jeremiahalex.gitbooks.io/wdi-sg/content/) is the primary resource used throughout the course, save it to your favorites and refer to it often!
 
